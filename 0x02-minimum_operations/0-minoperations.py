@@ -4,6 +4,7 @@ Script that computes a minimum operations
 needed in a CopyAll - Paste task
 """
 
+
 def minOperations(n):
     if n == 1:
         return 0  # Already have 1 H character
