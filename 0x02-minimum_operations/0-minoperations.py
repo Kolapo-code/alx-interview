@@ -1,9 +1,4 @@
 #!/usr/bin/python3
-"""
-Script that computes a minimum operations
-needed in a CopyAll - Paste task
-"""
-
 
 def minOperations(n):
     if n == 1:
